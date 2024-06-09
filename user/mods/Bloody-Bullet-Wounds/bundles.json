@@ -1,8 +1,0 @@
-{
-    "manifest": [
-         {
-            "key": "assets/systems/effects/particlesystems/effects.bundle",
-            "dependencyKeys": []
-        }
-    ]
-}
