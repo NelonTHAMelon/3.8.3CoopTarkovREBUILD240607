@@ -84,11 +84,11 @@
           "BossEscortType": "followerboar"
         },
         {
-          "BossEscortAmount": "1",
+          "BossEscortAmount": "2",
           "BossEscortType": "followerboarclose1"
         },
         {
-          "BossEscortAmount": "1",
+          "BossEscortAmount": "2",
           "BossEscortType": "followerboarclose2"
         }
       ],

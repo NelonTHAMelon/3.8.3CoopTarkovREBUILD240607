@@ -184,7 +184,7 @@
           "BossEscortType": "followergluharassault"
         },
         {
-          "BossEscortAmount": "2",
+          "BossEscortAmount": "4",
           "BossEscortType": "followergluharsecurity"
         },
         {

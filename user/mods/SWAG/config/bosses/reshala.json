@@ -2,7 +2,7 @@
   "customs": [
     {
       "BossChance": 35,
-      "BossEscortAmount": "4",
+      "BossEscortAmount": "6",
       "BossEscortType": "followerbully",
       "BossName": "bossbully",
       "BossZone": [
@@ -35,7 +35,7 @@
   "groundzero": [
     {
       "BossChance": 35,
-      "BossEscortAmount": "4",
+      "BossEscortAmount": "6",
       "BossEscortType": "followerbully",
       "BossName": "bossbully",
       "BossZone": null,

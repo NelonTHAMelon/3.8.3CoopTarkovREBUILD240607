@@ -15,8 +15,8 @@
 	"max_calc_time_per_frame_ms": 5,
 	"chance_of_being_hostile_toward_bosses": {
 		"scav": 0,
-		"pscav": 20,
-		"pmc": 80,
+		"pscav": 0,
+		"pmc": 100,
 		"boss": 0
 	},
 	"questing": {
@@ -139,7 +139,7 @@
 		},
 		"extraction_requirements": {
 			"min_alive_time": 60,
-			"must_extract_time_remaining": 300,
+			"must_extract_time_remaining": 120,
 			"total_quests": {
 				"min": 6,
 				"max": 12
@@ -214,14 +214,14 @@
 				"max_bots_per_quest": 30
 			},
 			"boss_hunter": {
-				"desirability": 40,
+				"desirability": 1,
 				"min_level": 15,
 				"max_raid_ET": 300,
 				"min_distance": 50,
 				"max_bots_per_quest": 2
 			},
 			"airdrop_chaser": {
-				"desirability": 70,
+				"desirability": 10,
 				"max_bots_per_quest": 3,
 				"max_distance": 400
 			}

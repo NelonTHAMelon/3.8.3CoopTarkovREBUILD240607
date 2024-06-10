@@ -80,7 +80,7 @@
       "BossEscortType": "followerkolontaysecurity",
       "Supports": [
         {
-          "BossEscortAmount": "2",
+          "BossEscortAmount": "4",
           "BossEscortType": "followerkolontayassault"
         },
         {
@@ -228,7 +228,7 @@
           "BossEscortType": "followerkolontayassault"
         },
         {
-          "BossEscortAmount": "2",
+          "BossEscortAmount": "4",
           "BossEscortType": "followerkolontaysecurity"
         },
         {
