@@ -1,3 +1,12 @@
 {
-    "order": []
+    "order": [
+        "fika-server",
+        "Skwizzy-NoDiscardLimit",
+        "DewardianDev-AlgorithmicLevelProgression",
+        "zrairaitheraichu-ammostats-3.1.1",
+        "ServerValueModifier",
+        "SWAG",
+        "DanW-SPTQuestingBots",
+        "zSolarint-SAIN-ServerMod"
+    ]
 }
