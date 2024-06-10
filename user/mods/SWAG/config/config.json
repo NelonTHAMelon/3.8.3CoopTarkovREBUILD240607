@@ -78,28 +78,28 @@
       }
    },
    "MaxBotCap": {
-      "factory": 30,
-      "customs": 30,
-      "woods": 30,
-      "shoreline": 30,
-      "lighthouse": 30,
-      "reserve": 30,
-      "interchange": 30,
-      "laboratory": 30,
-      "streets": 30,
-      "groundzero": 30
+      "factory": 24,
+      "customs": 24,
+      "woods": 24,
+      "shoreline": 24,
+      "lighthouse": 24,
+      "reserve": 24,
+      "interchange": 24,
+      "laboratory": 24,
+      "streets": 24,
+      "groundzero": 24
    },
    "NightMaxBotCap": {
-      "factory_night": 30,
-      "customs": 30,
-      "woods": 30,
-      "shoreline": 30,
-      "lighthouse": 30,
-      "reserve": 30,
-      "interchange": 30,
-      "laboratory": 30,
-      "streets": 30,
-      "groundzero": 30
+      "factory_night": 24,
+      "customs": 24,
+      "woods": 24,
+      "shoreline": 24,
+      "lighthouse": 24,
+      "reserve": 24,
+      "interchange": 24,
+      "laboratory": 24,
+      "streets": 24,
+      "groundzero": 24
    },
    "UseDefaultSpawns": {
       "Waves": false,

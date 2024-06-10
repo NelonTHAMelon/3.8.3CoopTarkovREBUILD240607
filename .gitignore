@@ -32,3 +32,5 @@ BepInEx/*
 !User
 User/*
 !User/Mods
+BepInEx/config/com.mpstark.DynamicMaps.cfg
+BepInEx/config/com.mpstark.DynamicMaps.cfg
